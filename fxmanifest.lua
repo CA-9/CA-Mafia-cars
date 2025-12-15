@@ -1,7 +1,7 @@
 fx_version 'cerulean'
 game 'gta5'
 lua54 'yes'
-description 'CA-Mafia By CA | All rights are fully reserved to Scary Town.'
+description 'CA-Mafia By CA | All rights are fully reserved to ca.'
 version '1.3.5'
 
 shared_scripts {
