@@ -1,11 +1,11 @@
 # CA-Mafia-cars
-A system for spawning tanks for mafia missions
+    A system for spawning tanks for mafia missions
 
 - **Dependencies**
 
-qb-core
+    qb-core
 
-ox_lib
+    ox_lib
 
 - **CA-Tanks-Pack Link**
 
